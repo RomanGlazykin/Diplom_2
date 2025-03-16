@@ -1,0 +1,6 @@
+USER_WITH_SUCH_EMAIL_ALREADY_EXISTS_MESSAGE = "User with such email already exists"
+YOU_SHOULD_BE_AUTHORIZED_MESSAGE = "You should be authorised"
+INGREDIENT_IDS_MUST_BE_PROVIDED_MESSAGE = "Ingredient ids must be provided"
+EMAIL_OR_PASSWORD_ARE_INCORRECT_MESSAGE = "email or password are incorrect"
+EMAIL_PASSWORD_AND_NAME_ARE_REQUIRED_FIELDS_MESSAGE = "Email, password and name are required fields"
+USER_ALREADY_EXISTS_MESSAGE = "User already exists"
